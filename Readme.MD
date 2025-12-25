@@ -124,15 +124,3 @@ I prefer **clean backend logic and system thinking** over flashy UI, and I enjoy
 > This is how I’m building my Backend SDE career.
 
 ---
-
-## 📊 GitHub Snapshot
-
-<div align="center">
-
-<!-- Feel free to comment out or tweak these cards if you don't want them -->
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhiboss07&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiboss07&layout=compact&theme=tokyonight)
-
-</div>
