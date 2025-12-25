@@ -4,13 +4,11 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?size=32&duration=2500&pause=700&color=00C8FF&center=true&vCenter=true&width=650&lines=Abhishek+Yadav;Backend+Engineer+(Java);Data+%26+Automation+Enthusiast;Future+Backend+SDE)](https://git.io/typing-svg)
 
-  # 👋 Hey, I'm **Abhishek Yadav**
+  ### Building reliable backend systems with Java, data, and automation
 
-  **Backend Engineer (Java) · Data & Automation Enthusiast · Future Backend SDE**
+  I’m focused on **backend engineering with Java**, **solid DSA**, and **system design** to ship production‑ready services.
 
-  I’m transitioning into a **strong Backend / SDE role** with a structured, focused on **Java**, **DSA**, **Backend Development**, and **System Thinking**.
-
-  I believe in **depth over noise** — fewer projects, strong fundamentals, and production-ready systems.
+  I believe in **depth over noise** — fewer projects, strong fundamentals, and systems that actually solve real problems.
 
   ---
   
