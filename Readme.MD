@@ -1,5 +1,9 @@
 <div align="center">
 
+  <!-- Animated Name & Role -->
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?size=32&duration=2500&pause=700&color=00C8FF&center=true&vCenter=true&width=650&lines=Abhishek+Yadav;Backend+Engineer+(Java);Data+%26+Automation+Enthusiast;Future+Backend+SDE)](https://git.io/typing-svg)
+
   # 👋 Hey, I'm **Abhishek Yadav**
 
   **Backend Engineer (Java) · Data & Automation Enthusiast · Future Backend SDE**
@@ -115,6 +119,14 @@ I prefer **clean backend logic and system thinking** over flashy UI, and I enjoy
 
 - **LinkedIn:** https://www.linkedin.com/in/abhishek-yadav-4738032b7/  
 - **GitHub:** https://github.com/Abhiboss07  
+- **Email:** Soft.Vibe@outlook.com  
+- **Portfolio:** https://portfolio-abhishek-01.vercel.app/  
+
+---
+
+## 📄 Download My Resume
+
+_Coming soon – I’ll add my resume link here._
 
 ---
 
