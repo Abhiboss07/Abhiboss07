@@ -4,7 +4,7 @@
 
   **Backend Engineer (Java) · Data & Automation Enthusiast · Future Backend SDE**
 
-  I’m transitioning into a **strong Backend / SDE role** with a structured, realistic roadmap focused on **Java**, **DSA**, **Backend Development**, and **System Thinking**.
+  I’m transitioning into a **strong Backend / SDE role** with a structured, focused on **Java**, **DSA**, **Backend Development**, and **System Thinking**.
 
   I believe in **depth over noise** — fewer projects, strong fundamentals, and production-ready systems.
 
