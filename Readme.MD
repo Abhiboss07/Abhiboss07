@@ -2,7 +2,7 @@
 
   <!-- Animated Name & Role -->
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?size=32&duration=2500&pause=700&color=00C8FF&center=true&vCenter=true&width=650&lines=Abhishek+Yadav;Backend+Engineer+(Java);Data+%26+Automation+Enthusiast;Future+Backend+SDE)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?size=32&duration=2500&pause=700&color=00C8FF&center=true&vCenter=true&width=650&lines=Abhishek+Yadav;Backend+Engineer+(Java);Data+%26+Automation+Enthusiast;Backend+SDE)](https://git.io/typing-svg)
 
   ### Building reliable backend systems with Java, data, and automation
 
