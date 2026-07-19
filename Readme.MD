@@ -36,7 +36,7 @@ class AbhishekYadav:
         self.role      = "Software Developer @ AnantaSutra"
         self.location  = "Jaunpur, India 🇮🇳"
         self.education = "B.Tech CSE, VBSPU (2023 — 2027)"
-        self.focus     = ["Backend Engineering", "Data Pipelines", "Cloud-Native"]
+        self.focus     = ["Software Engineering", "Data Pipelines", "Cloud-Native"]
         self.stack     = ["Java", "Python", "Spring Boot", "FastAPI", "React"]
         self.mindset   = "Depth over noise — strong fundamentals, systems that scale"
 ```
