@@ -1,136 +1,158 @@
+<!-- ══════════════════════ ANIMATED HEADER ══════════════════════ -->
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:7C3AED&height=200&section=header&text=Abhishek%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%C2%B7%20Building%20systems%20that%20scale&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+</a>
+
 <div align="center">
 
-  <!-- Animated Name & Role -->
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?size=32&duration=2500&pause=700&color=00C8FF&center=true&vCenter=true&width=650&lines=Abhishek+Yadav;Backend+Engineer+(Java);Data+%26+Automation+Enthusiast;Backend+SDE)](https://git.io/typing-svg)
+  <!-- Animated typing roles -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2600&pause=800&color=00C8FF&center=true&vCenter=true&width=680&lines=Software+Developer+%40+AnantaSutra;Backend+Engineer+(Java+%7C+Spring+Boot);FastAPI+%26+Microservices+Builder;Data+Pipelines+%26+Automation;Cloud-Native+Systems)](https://git.io/typing-svg)
 
-  ### Building reliable backend systems with Java, data, and automation
-
-  I’m focused on **backend engineering with Java**, **solid DSA**, and **system design** to ship production‑ready services.
-
-  I believe in **depth over noise** — fewer projects, strong fundamentals, and systems that actually solve real problems.
-
-  ---
-  
-  <!-- Badges & Quick Glance -->
+  <!-- Live counters -->
   <p>
-    <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blueviolet" />
-    <img src="https://img.shields.io/badge/Language-Java-orange" />
-    <img src="https://img.shields.io/badge/Style-Clean%20Code-success" />
+    <img src="https://komarev.com/ghpvc/?username=Abhiboss07&label=Profile%20views&color=00C8FF&style=flat" alt="profile views" />
+    <a href="https://github.com/Abhiboss07?tab=followers"><img src="https://img.shields.io/github/followers/Abhiboss07?label=Followers&style=flat&color=7C3AED" alt="followers" /></a>
+    <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud--Native-blueviolet?style=flat" />
+    <img src="https://img.shields.io/badge/Location-Jaunpur,%20India-success?style=flat" />
   </p>
 
+  <!-- Social -->
   <p>
-    <a href="https://github.com/Abhiboss07"><img src="https://img.shields.io/github/followers/Abhiboss07?label=Follow&style=social" /></a>
-    <a href="https://www.linkedin.com/in/abhishek-yadav-4738032b7/"><img src="https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/abhishek-yadav-4738032b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/Abhiboss07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://portfolio-abhishek-01.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C8FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="mailto:abhicps19@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
 </div>
 
 ---
 
-## 🎯 Current Goal
+## 🚀 About Me
 
-> Crack a **Backend Engineer / SDE (Java)** role by building:
-> - Strong **DSA fundamentals**
-> - Real **Spring Boot backend projects**
-> - Practical **system design & scalability understanding**
+```python
+class AbhishekYadav:
+    def __init__(self):
+        self.role      = "Software Developer @ AnantaSutra"
+        self.location  = "Jaunpur, India 🇮🇳"
+        self.education = "B.Tech CSE, VBSPU (2023 — 2027)"
+        self.focus     = ["Backend Engineering", "Data Pipelines", "Cloud-Native"]
+        self.stack     = ["Java", "Python", "Spring Boot", "FastAPI", "React"]
+        self.mindset   = "Depth over noise — strong fundamentals, systems that scale"
+```
 
----
-
-## 🧰 Tech Stack at a Glance
-
-<details>
-<summary><b>💻 Languages</b></summary>
-
-- Java  
-- JavaScript (Node.js)  
-- Python  
-- SQL  
-
-</details>
-
-<details>
-<summary><b>🗄️ Backend & Data</b></summary>
-
-- Spring Boot  
-- REST APIs  
-- JWT Authentication  
-- PostgreSQL / MySQL  
-- Data ingestion & validation  
-
-</details>
-
-<details>
-<summary><b>⚙️ Automation & Tools</b></summary>
-
-- Web scraping  
-- n8n workflows  
-- CLI tools  
-- Git & GitHub  
-
-</details>
+> Software developer with hands-on experience across **microservices** and **data pipelines** using Java, Python, FastAPI, Spring Boot and React. Focused on **scalable cloud-native systems**, **clean API design**, **automation** and **data quality** in production.
 
 ---
 
-## 🚀 Highlight Projects
+## 🛠️ Tech Stack
 
-> A few backend-focused projects that reflect how I think about systems, data, and clean APIs.
+<div align="center">
 
-- **[Project 1 – LoginSystem](https://github.com/Abhiboss07/LoginSystem)**  
-  Production-style REST API with JWT auth, layered architecture, proper exception handling, and pagination. Focused on clean domain modeling and separation of concerns.
+### Languages & Backend
+![Java](https://skillicons.dev/icons?i=java,python,spring,fastapi,nodejs)
 
-- **[Project 2 – Market-Price-Prediction](https://github.com/Abhiboss07/Market-Price-Prediction)**  
-  End‑to‑end pipeline that ingests messy data, validates it, and stores it in a relational DB. Emphasis on reliability, observability, and idempotent operations.
+### Databases & Cache
+![DB](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)
 
-- **[Project 3 – Insta-Scrapper](https://github.com/Abhiboss07/Insta-Scrapper)**  
-  Automated workflows to glue services together (scraping → processing → notifications), reducing manual work and making processes repeatable.
+### Cloud, DevOps & Tools
+![Tools](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,linux,postman)
 
----
+### Frontend & AI
+![Frontend](https://skillicons.dev/icons?i=react,typescript,tailwind,html,css)
 
-## 🌱 Currently Leveling Up
+`Microservices` · `REST APIs` · `WebSocket` · `JWT / RBAC` · `Celery` · `CI/CD` · `OpenAI` · `Gemini` · `Deepgram` · `Web Scraping`
 
-- Advanced Java & DSA  
-- Backend system design  
-- Scalable API architecture  
-- Caching & concurrency  
-- Writing clean, maintainable backend code  
+</div>
 
 ---
 
-## 💬 Ask Me About
+## 💼 Experience
 
-- Java & Spring Boot backend design  
-- DSA preparation strategy  
-- Building scalable APIs  
-- Data ingestion systems  
-- Backend transition roadmap  
+| Role | Company | When | |
+|------|---------|------|---|
+| **Software Development Engineer 1** | AnantaSutra | May 2026 — Present | Remote |
+| **Data Engineer** | AnantaSutra | Nov 2025 — Jan 2026 | Remote |
+| **Java Developer** *(Intern)* | Cognifyz Technologies | Aug — Sep 2025 | Remote |
+| **Java Programmer** *(Intern)* | CodSoft | Jul — Aug 2025 | Remote |
+
+- ⚙️ **SDE @ AnantaSutra** — Building scalable backend services; data pipelines, web-scraping & automation workflows; engineered **GitHub Actions CI/CD** with automated testing for reliability.
+- 📊 **Data Engineer @ AnantaSutra** — Built lead-generation tools & Python data pipelines (BeautifulSoup, Requests, REST) with automated verification/deduplication → **+40% data acquisition · +35% data quality · −30% invalid records**.
 
 ---
 
-## ⚡ Fun Fact
+## 🚀 Featured Projects
 
-I prefer **clean backend logic and system thinking** over flashy UI, and I enjoy turning **messy data flows into structured backend systems**.
+<div align="center">
+
+| Project | What it does | Tech |
+|---------|--------------|------|
+| 🗄️ **[Distributed Key-Value Store](https://github.com/Abhiboss07)** | In-memory KV store from scratch — TCP server (50 concurrent clients), O(1) LRU eviction, dual-strategy TTL, AOF write-ahead log with fsync. **144 JUnit 5 tests.** | `Java 17` `TCP` `JUnit 5` |
+| 🎙️ **[Voice AI Platform](https://github.com/Abhiboss07)** | Cloud-native voice AI SaaS — FastAPI microservices, JWT + WebSocket live metrics, LiveKit telephony, OpenAI/Gemini + Deepgram STT + Sarvam TTS, RBAC dashboard. | `FastAPI` `Redis` `Docker` `React` |
+| 🖥️ **[Nexus Control Center](https://github.com/Abhiboss07)** | Linux system command center — Rust + Tauri v2, modular plugin architecture, real-time CPU/memory/disk/network monitoring + AI diagnostics. | `Rust` `Tauri v2` `React` |
+| 🔐 **[LoginSystem](https://github.com/Abhiboss07/LoginSystem)** | Production-style auth REST API — JWT, layered architecture, clean domain modeling, exception handling & pagination. | `Java` `Spring Boot` `JWT` |
+| 📈 **[AgriPrice Pro](https://github.com/Abhiboss07/Market-Price-Prediction)** | Agri market analysis — ingestion + validation pipeline into a relational DB, real-time price prediction & historical visualization. | `Python` `Data Pipeline` |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhiboss07&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00C8FF&icon_color=7C3AED" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiboss07&layout=compact&hide_border=true&theme=tokyonight&title_color=00C8FF&langs_count=8" />
+
+  <br/>
+
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiboss07&hide_border=true&theme=tokyonight&ring=00C8FF&fire=7C3AED&currStreakLabel=00C8FF" />
+
+  <br/><br/>
+
+  <!-- Animated activity graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiboss07&bg_color=0d1117&color=00c8ff&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+
+  <br/>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhiboss07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Abhiboss07/Abhiboss07/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Deloitte Australia — Technology Job Simulation** · Forage · *Jul 2025*
+- ☕ **Java Programming** · CodSoft · *Aug 2025*
+- 💻 **Java Development** · Cognifyz Technologies · *Sep 2025*
+- 🚀 **Bharat Innovation Conclave** · Participation
 
 ---
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/abhishek-yadav-4738032b7/  
-- **GitHub:** https://github.com/Abhiboss07  
-- **Email:** Soft.Vibe@outlook.com  
-- **Portfolio:** https://portfolio-abhishek-01.vercel.app/  
+<div align="center">
+
+  **LinkedIn:** [abhishek-yadav](https://www.linkedin.com/in/abhishek-yadav-4738032b7/) &nbsp;·&nbsp; **Portfolio:** [portfolio-abhishek-01.vercel.app](https://portfolio-abhishek-01.vercel.app/) &nbsp;·&nbsp; **Email:** [abhicps19@gmail.com](mailto:abhicps19@gmail.com)
+
+</div>
 
 ---
 
-## 📄 Download My Resume
+<div align="center">
 
-_Coming soon – I’ll add my resume link here._
+  > _Strong fundamentals → Real projects → Scalable thinking._
 
----
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00C8FF&height=120&section=footer&animation=fadeIn" alt="footer" />
 
-## 🧠 Mindset
-
-> Strong fundamentals → Real projects → Scalable thinking  
-> This is how I’m building my Backend SDE career.
-
----
+</div>
