@@ -21,7 +21,7 @@
     <a href="https://www.linkedin.com/in/abhishek-yadav-4738032b7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/Abhiboss07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://portfolio-abhishek-01.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C8FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="mailto:Soft.Vibe@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:abhicps19@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
 </div>
@@ -143,7 +143,7 @@ class AbhishekYadav:
 
 <div align="center">
 
-  **LinkedIn:** [abhishek-yadav](https://www.linkedin.com/in/abhishek-yadav-4738032b7/) &nbsp;·&nbsp; **Portfolio:** [portfolio-abhishek-01.vercel.app](https://portfolio-abhishek-01.vercel.app/) &nbsp;·&nbsp; **Email:** [Soft.Vibe@outlook.com](mailto:Soft.Vibe@outlook.com)
+  **LinkedIn:** [abhishek-yadav](https://www.linkedin.com/in/abhishek-yadav-4738032b7/) &nbsp;·&nbsp; **Portfolio:** [portfolio-abhishek-01.vercel.app](https://portfolio-abhishek-01.vercel.app/) &nbsp;·&nbsp; **Email:** [abhicps19@gmail.com](mailto:abhicps19@gmail.com)
 
 </div>
 
