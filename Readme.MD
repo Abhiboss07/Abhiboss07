@@ -33,7 +33,7 @@
 ```python
 class AbhishekYadav:
     def __init__(self):
-        self.role      = "Software Developer @ AnantaSutra"
+        self.role      = "Ex.Software Developer @ AnantaSutra"
         self.location  = "Jaunpur, India 🇮🇳"
         self.education = "B.Tech CSE, VBSPU (2023 — 2027)"
         self.focus     = ["Software Engineering", "Data Pipelines", "Cloud-Native"]
